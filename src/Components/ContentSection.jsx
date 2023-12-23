@@ -4,7 +4,7 @@ import Button from "../Components/button/Button";
 
 const ContentSection = () => {
   return (
-    <div className="flex flex-col md:flex-row w-full items-center   relative mt-[-320px] md:mt-[-10px] lg:mt-[100px]">
+    <div className="flex flex-col md:flex-row w-full items-center   relative  lg:mt-[50px]">
       {/* Image Section */}
       <div className="w-full md:w-1/2 relative ">
         <img
