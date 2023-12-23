@@ -4,7 +4,7 @@ import hero from "../assets/hero/andy-kelly-0e-vhmvql9g-unsplash-1.png";
 
 const Home = () => {
   return (
-    <div className="w-full lg:h-screen ">
+    <div className="w-full ">
       <div className="relative">
         <div className="pt-20">
           <img
