@@ -1,0 +1,28 @@
+  .bg{
+    background: #6B3CC9;
+  }
+  
+
+ 
+
+
+
+.bg-white {
+  width: 100%;
+  margin: 0; 
+  padding: 24px 20px 32px;
+  background: linear-gradient(180deg, rgb(28, 189, 221) 27.86%, rgb(77, 202, 121) 100%);
+}
+
+
+@media (min-width: 768px) {
+  .bg-white {
+    position: absolute;
+    bottom: 40px;
+    left: 60px;
+    height: auto;
+    width: 556px; 
+    padding: 40px 24px 40px 32px;
+  }
+}
+
